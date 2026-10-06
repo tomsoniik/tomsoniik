@@ -33,7 +33,7 @@
   
   
   <a href="https://hub.fragujemy.com">
-    <img src="https://img.shields.io/badge/🌍_Visit_FragHub-0D1117?style=for-the-badge&logo=serverfault&logoColor=white&border=3399FF" alt="Visit FragHub" />
+    <img src="https://img.shields.io/badge/_Visit_FragHub-0D1117?style=for-the-badge&logo=serverfault&logoColor=white&border=3399FF" alt="Visit FragHub" />
   </a>
 </div>
 
