@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">Hi there, I'm TOMSON 👋</h1>
-  <h3 align="center">Full-Stack Web Developer & API Engineer</h3>
   
   <p align="center">
     <a href="https://github.com/tomsoniik">
