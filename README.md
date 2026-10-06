@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm TOMSON </h1>
+  <h1 align="center">Hi there, I'm TOMSON 👋</h1>
   <h3 align="center">Full-Stack Web Developer & API Engineer</h3>
   
   <p align="center">
@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">
-    I design and build advanced web applications, from aesthetic frontends to robust backends and scalable APIs. 
+    I design and build advanced web applications, from aesthetic frontends to robust backends and scalable APIs.
   </p>
 
   <br>
@@ -25,11 +25,24 @@
 
 ---
 
+<h3 align="center">🚀 Featured Project: FragHub</h3>
+
+<div align="center">
+  <p><b>Advanced web platform integrated with the CS2 server ecosystem.</b></p>
+  <i>FragHub is a showcase of my full-stack capabilities, bridging a high-performance backend, robust APIs, and a responsive frontend with direct game server integrations.</i><br><br>
+  
+  <!-- PODMIEŃ "LINK_DO_STRONY_LUB_REPO" NA PRAWDZIWY LINK DO FRAGHUB -->
+  <a href="LINK_DO_STRONY_LUB_REPO">
+    <img src="https://img.shields.io/badge/🌍_Visit_FragHub-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white&border=3399FF" alt="Visit FragHub" />
+  </a>
+</div>
+
+---
+
 <h3 align="center">💻 Tech Stack & Tools</h3>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Kolejność: HTML5, React, JS, PHP, C++, C#, Python, NodeJS, MySQL, Git, GitHub, VSCode -->
     <img src="https://skillicons.dev/icons?i=html,react,js,php,cpp,cs,py,nodejs,mysql,git,github,vscode&perline=6" alt="My Skills" />
   </a>
 </div>
