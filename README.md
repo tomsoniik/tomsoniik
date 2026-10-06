@@ -29,7 +29,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,cs,py,nodejs,mysql,git,github,cpp,vscode&perline=7" alt="My Skills" />
+    <!-- Kolejność: HTML5, React, JS, PHP, C++, C#, Python, NodeJS, MySQL, Git, GitHub, VSCode -->
+    <img src="https://skillicons.dev/icons?i=html,react,js,php,cpp,cs,py,nodejs,mysql,git,github,vscode&perline=6" alt="My Skills" />
   </a>
 </div>
 
