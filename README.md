@@ -25,14 +25,14 @@
 
 ---
 
-<h3 align="center">🚀 Featured Project: FragHub</h3>
+<h3 align="center">Featured Project: FragHub</h3>
 
 <div align="center">
   <p><b>Advanced web platform integrated with the CS2 server ecosystem.</b></p>
   <i>FragHub is a showcase of my full-stack capabilities, bridging a high-performance backend, robust APIs, and a responsive frontend with direct game server integrations.</i><br><br>
   
-  <!-- PODMIEŃ "LINK_DO_STRONY_LUB_REPO" NA PRAWDZIWY LINK DO FRAGHUB -->
-  <a href="(https://hub.fragujemy.com)">
+  
+  <a href="https://hub.fragujemy.com">
     <img src="https://img.shields.io/badge/🌍_Visit_FragHub-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white&border=3399FF" alt="Visit FragHub" />
   </a>
 </div>
