@@ -2,6 +2,10 @@
   <img src="assets/header.svg" alt="tomson" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tomsoniik&label=profile%20views&color=3399FF&style=flat-square" alt="Profile views" />
+</p>
+
 Hi, I'm Tomson, or tomSoNN in game. I build web things for the Counter-Strike community, mostly in my free time and mostly for fun.
 
 ### FragHub
@@ -21,6 +25,10 @@ It's also the quickest way to reach the team.
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=html,js,php" alt="HTML5, JavaScript, PHP" />
+
+### Contact
+
+Discord: `tomsoncs`
 
 <br><br>
 
