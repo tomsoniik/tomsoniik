@@ -2,11 +2,17 @@
   <img src="assets/header.svg" alt="tomson" width="100%" />
 </p>
 
-Hi, I'm Tomson, or tomSoNN in game. I build web things for the Counter-Strike 2 community, mostly in my free time and mostly for fun.
+Hi, I'm Tomson, or tomSoNN in game. I build web things for the Counter-Strike community, mostly in my free time and mostly for fun.
 
 ### FragHub
 
-[FragHub](https://hub.fragujemy.com) is what I spend most of my time on. It's a central hub that connects our community forum with our CS2 game servers, so players have one place for both instead of separate sites.
+[FragHub](https://hub.fragujemy.com) is what I spend most of my time on. It ties our Counter-Strike 1.6, CS:GO and CS2 servers and the community forum together into one platform. Players go there to:
+
+- check their ranking
+- look up bans and other penalties
+- report bugs
+
+It's also the quickest way to reach the team.
 
 ### Also
 
