@@ -42,7 +42,7 @@ const tomson = {
 <br>
 
 <!-- ============ FEATURED PROJECT ============ -->
-## 🎯 Main project — FragHub
+## 🟦 Main project — FragHub
 
 **FragHub** is a web platform connected to the **CS2 server ecosystem** — and the project I'm focused on right now.
 It's where I put most of my time: new features, a faster backend and a better experience for players.
