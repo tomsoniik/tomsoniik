@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E8C,100:3399FF&height=200&section=header&text=TOMSON&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Creator%20of%20FragHub&descAlignY=60&descSize=18&animation=fadeIn" alt="TOMSON header" width="100%" />
+  <img src="assets/header.svg" alt="TOMSON header" width="100%" />
 </p>
 
 <p align="center">
@@ -110,5 +110,5 @@ It's where I put most of my time: new features, a faster backend and a better ex
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3399FF,50:1F4E8C,100:0D1117&height=110&section=footer" alt="footer" width="100%" />
+  <img src="assets/footer.svg" alt="footer" width="100%" />
 </p>
