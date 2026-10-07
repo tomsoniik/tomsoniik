@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
-  <defs></defs>
-  <style>.t{font:300 92px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#0D1117;letter-spacing:6px} .s{font:500 16px Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace;fill:#0D2A4D} @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
-  <rect width="800" height="280" fill="#3399FF"/>
-  <text x="400" y="146" text-anchor="middle" class="t" textLength="380" lengthAdjust="spacingAndGlyphs">tomson</text>
-  <rect x="370" y="168" width="60" height="3" fill="#0D1117"/>
-  <text x="400" y="206" text-anchor="middle" class="s" textLength="380" lengthAdjust="spacingAndGlyphs">full-stack developer • creator of fraghub</text>
-</svg>

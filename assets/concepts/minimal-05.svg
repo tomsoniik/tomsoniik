@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
-  <defs></defs>
-  <style>.t{font:700 88px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#FFFFFF;letter-spacing:2px} .b{fill:#FFFFFF;font-weight:700} .s{font:400 21px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#C9D1D9} .hl{transform-origin:502px 181px;animation:h 1s ease-out .4s both} @keyframes h{from{transform:scaleX(0)}to{transform:scaleX(1)}} @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
-  <rect width="800" height="280" fill="#0D1117"/>
-  <text x="400" y="128" text-anchor="middle" class="t" textLength="360" lengthAdjust="spacingAndGlyphs">tomson</text>
-  <rect x="502" y="166" width="104" height="31" fill="#3399FF" opacity=".35" class="hl"/>
-  <text x="196" y="189" class="s" textLength="296" lengthAdjust="spacingAndGlyphs">full-stack developer, building</text>
-  <text x="508" y="189" class="s b" textLength="92" lengthAdjust="spacingAndGlyphs">FragHub</text>
-</svg>

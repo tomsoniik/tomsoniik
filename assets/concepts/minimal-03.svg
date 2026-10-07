@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
-  <defs></defs>
-  <style>.t{font:800 100px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;letter-spacing:6px} .o{fill:none;stroke:#3399FF;stroke-width:1.5} .f{fill:#3399FF} .s{font:400 16px Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace;fill:#8B949E} .sw{animation:sw 2.4s ease-in-out .3s forwards} @keyframes sw{to{width:800px}} @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
-  <rect width="800" height="280" fill="#0D1117"/>
-  <clipPath id="c"><rect x="0" y="0" width="0" height="280" class="sw"/></clipPath>
-  <text x="400" y="150" text-anchor="middle" class="t o" textLength="460" lengthAdjust="spacingAndGlyphs">TOMSON</text>
-  <text x="400" y="150" text-anchor="middle" class="t f" textLength="460" lengthAdjust="spacingAndGlyphs" clip-path="url(#c)">TOMSON</text>
-  <text x="400" y="206" text-anchor="middle" class="s" textLength="380" lengthAdjust="spacingAndGlyphs">full-stack developer • creator of fraghub</text>
-</svg>
