@@ -1,17 +1,17 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E8C,100:3399FF&height=200&section=header&text=TOMSON&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20CS2%20Plugins%20%E2%80%A2%20Web%20%26%20APIs&descAlignY=60&descSize=18&animation=fadeIn" alt="TOMSON header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E8C,100:3399FF&height=200&section=header&text=TOMSON&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Creator%20of%20FragHub&descAlignY=60&descSize=18&animation=fadeIn" alt="TOMSON header" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/tomsoniik">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=3399FF&center=true&vCenter=true&width=480&lines=I'm+building+things+4fun+%F0%9F%9B%A0%EF%B8%8F;CS2+Plugin+Developer;Web+%26+API+Architect;Creator+of+FragHub" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=3399FF&center=true&vCenter=true&width=480&lines=I'm+building+things+4fun+%F0%9F%9B%A0%EF%B8%8F;Developing+FragHub;Web+%26+API+Architect;Full-Stack+Creator" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/On_GitHub_since-2023-3399FF?style=for-the-badge&labelColor=0D1117&logo=github" alt="On GitHub since 2023" />
-  <img src="https://img.shields.io/badge/CS2-Plugin_Dev-3399FF?style=for-the-badge&labelColor=0D1117&logo=counterstrike&logoColor=white" alt="CS2 Plugin Dev" />
+  <a href="https://hub.fragujemy.com"><img src="https://img.shields.io/badge/Now_building-FragHub-3399FF?style=for-the-badge&labelColor=0D1117&logo=counterstrike&logoColor=white" alt="Now building FragHub" /></a>
   <a href="https://github.com/tomsoniik?tab=repositories"><img src="https://img.shields.io/badge/Open_to-Collaboration-3399FF?style=for-the-badge&labelColor=0D1117" alt="Open to collaboration" /></a>
   <img src="https://komarev.com/ghpvc/?username=tomsoniik&label=Profile%20views&color=3399FF&style=for-the-badge" alt="Profile views" />
 </p>
@@ -23,18 +23,18 @@
 
 Hi, I'm **Tomson** (in-game: **tomSoNN**) — and honestly, *I'm building things 4fun.* 🛠️
 
-Most of what I make lives around **Counter-Strike 2**: server plugins in **C#**,
-a web platform for the community, bots and tools that make running a server easier.
+These days I spend most of my time on **[FragHub](https://hub.fragujemy.com)** — a web platform
+for the **Counter-Strike 2** community that I keep developing and improving.
 I enjoy the whole path — from the **backend and APIs** to a clean **frontend** players actually like using.
 
 ```js
 const tomson = {
   nickname:  "tomSoNN",
   bio:       "I'm building things 4fun",
-  role:      "Full-Stack & CS2 Plugin Developer",
-  focus:     ["CS2 server plugins", "Web apps", "REST APIs", "Discord bots"],
+  role:      "Full-Stack Developer",
+  focus:     ["FragHub", "Web apps", "REST APIs"],
   stack:     ["C#", "PHP", "JavaScript", "React", "MySQL"],
-  building:  "FragHub — a web platform for CS2 servers",
+  building:  "FragHub — developing it every day",
   since:     2023,
 };
 ```
@@ -42,40 +42,26 @@ const tomson = {
 <br>
 
 <!-- ============ FEATURED PROJECT ============ -->
-## 🚀 Projects
+## 🎯 Main project — FragHub
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 FragHub</h3>
-      <p><b>Web platform connected to the CS2 server ecosystem.</b></p>
-      <p>My biggest project: a fast backend, solid APIs and a responsive frontend — all talking directly to live game servers.</p>
-      <ul>
-        <li>⚙️ Backend & API built to scale</li>
-        <li>🎮 Direct CS2 server integration</li>
-        <li>📱 Works on desktop and mobile</li>
-      </ul>
-      <a href="https://hub.fragujemy.com">
-        <img src="https://img.shields.io/badge/Visit_FragHub-3399FF?style=for-the-badge&logo=counterstrike&logoColor=white" alt="Visit FragHub" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 AutoMessageChat</h3>
-      <p><b>CS2 plugin for automatic chat messages.</b></p>
-      <p>Built on <a href="https://github.com/roflmuffin/CounterStrikeSharp">CounterStrikeSharp</a>. Sends rotating server messages, welcomes players and announces joins / leaves.</p>
-      <ul>
-        <li>🎨 Colored chat + custom prefix</li>
-        <li>👋 Welcome, join & leave messages</li>
-        <li>⚡ Config generated on first start</li>
-      </ul>
-      <a href="https://github.com/tomsoniik/AutoMessageChat">
-        <img src="https://img.shields.io/badge/View_Repo-3399FF?style=for-the-badge&logo=github&logoColor=white" alt="View AutoMessageChat" />
-      </a>
-    </td>
-  </tr>
-</table>
+**FragHub** is a web platform connected to the **CS2 server ecosystem** — and the project I'm focused on right now.
+It's where I put most of my time: new features, a faster backend and a better experience for players.
 
-<p align="center"><i>…plus a few more things in progress behind the scenes — more CS2 plugins and Discord bots. 👀</i></p>
+- ⚙️ **Backend & API** — fast, secure and built to scale
+- 🎮 **CS2 integration** — the website talks directly to live game servers
+- 📱 **Responsive UI** — works great on desktop and mobile
+- 🔄 **Always growing** — I keep developing it and adding new things
+
+<p align="center">
+  <a href="https://hub.fragujemy.com">
+    <img src="https://img.shields.io/badge/Visit_FragHub-3399FF?style=for-the-badge&logo=counterstrike&logoColor=white" alt="Visit FragHub" />
+  </a>
+</p>
+
+### 🧩 Side project
+
+> **[💬 AutoMessageChat](https://github.com/tomsoniik/AutoMessageChat)** — a small CS2 plugin (C#, CounterStrikeSharp)
+> that sends rotating server messages, welcomes players and announces joins / leaves.
 
 <br>
 
@@ -86,7 +72,7 @@ const tomson = {
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=php,nodejs,py" alt="Backend" /> |
-| **CS2 plugins** | <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="CS2 plugins" /> <br><sub>CounterStrikeSharp · Metamod:Source</sub> |
+| **CS2 plugin** | <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="CS2 plugin" /> <br><sub>CounterStrikeSharp</sub> |
 | **Other languages** | <img src="https://skillicons.dev/icons?i=cpp,c" alt="Languages" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mysql" alt="Database" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /> |
