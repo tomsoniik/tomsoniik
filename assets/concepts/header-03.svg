@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
+  <defs><radialGradient id="vig" cx=".3" cy=".4" r=".9"><stop offset="0" stop-color="#2A3B4D" stop-opacity=".9"/><stop offset="1" stop-color="#10151C" stop-opacity="0"/></radialGradient></defs>
+  <style>.t{font:900 86px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#FFFFFF;letter-spacing:4px} .s{font:700 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#F2A93B;letter-spacing:2px} .lbl{font:700 14px Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace;fill:#9FB3C8;letter-spacing:4px} .hud{font:700 20px Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace}
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="800" height="280" fill="#10151C"/>
+  <rect width="800" height="280" fill="url(#vig)"/>
+  <g stroke="#F2A93B" stroke-width="3" fill="none">
+    <path d="M30 60V30h30"/><path d="M770 60V30h-30"/><path d="M30 220v30h30"/><path d="M770 220v30h-30"/>
+  </g>
+  <g transform="translate(680 140)" stroke="#3CE0A0" stroke-width="3">
+    <line x1="-26" y1="0" x2="-8" y2="0"/><line x1="8" y1="0" x2="26" y2="0"/><line x1="0" y1="-26" x2="0" y2="-8"/><line x1="0" y1="8" x2="0" y2="26"/>
+  </g>
+  <text x="70" y="66" class="lbl">PLAYER</text>
+  <text x="70" y="148" class="t" textLength="380" lengthAdjust="spacingAndGlyphs">TOMSON</text>
+  <text x="70" y="182" class="s" textLength="470" lengthAdjust="spacingAndGlyphs">FULL-STACK DEVELOPER • CREATOR OF FRAGHUB</text>
+  <g transform="translate(70 214)">
+    <text class="hud" x="0" y="0"><tspan fill="#F2A93B">✚ 100</tspan>   <tspan fill="#9FB3C8">⛨ 100</tspan>   <tspan fill="#3CE0A0">$ FRAGHUB</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
+  <defs><linearGradient id="row" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1F3B5C"/><stop offset="1" stop-color="#16202C"/></linearGradient></defs>
+  <style>.t{font:900 60px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#FFFFFF} .h text,.h{font:700 14px Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace;fill:#8A97AB;letter-spacing:2px} .n text,.n{font:800 30px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#E6EDF3} .pj{font:800 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#5BA8FF} .sub{font:600 16px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#B7C3D4} .h2{font:700 12px Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace;fill:#5BA8FF;letter-spacing:1px}
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="800" height="280" fill="#12161D"/>
+  <rect x="40" y="36" width="720" height="40" fill="#1C2330"/>
+  <g class="h"><text x="70" y="62">PLAYER</text><text x="420" y="62">K</text><text x="470" y="62">D</text><text x="520" y="62">MVP</text><text x="740" y="62" text-anchor="end">PROJECT</text></g>
+  <rect x="40" y="84" width="720" height="96" fill="url(#row)"/>
+  <rect x="40" y="84" width="6" height="96" fill="#5BA8FF"/>
+  <text x="70" y="148" class="t" textLength="300" lengthAdjust="spacingAndGlyphs">TOMSON</text>
+  <g class="n"><text x="420" y="146">∞</text><text x="470" y="146">0</text><text x="520" y="144" style="fill:#FFD166;font-size:22px">★★★</text></g>
+  <text x="740" y="144" text-anchor="end" class="pj">FragHub</text>
+  <rect x="40" y="188" width="720" height="36" fill="#1A202A"/>
+  <text x="70" y="212" class="sub" textLength="400" lengthAdjust="spacingAndGlyphs">Full-Stack Developer • Creator of FragHub</text>
+  <text x="730" y="212" text-anchor="end" class="h2">I'M BUILDING THINGS 4FUN</text>
+</svg>

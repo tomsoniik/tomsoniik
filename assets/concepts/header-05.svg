@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
+  <defs></defs>
+  <style>.t{font:300 96px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#E6EDF3;letter-spacing:8px} .s{font:400 17px Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace;fill:#8B949E} .ln{transform-origin:400px 166px;animation:gr 1.4s ease-out both} @keyframes gr{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="800" height="280" fill="#0D1117"/>
+  <text x="400" y="138" text-anchor="middle" class="t" textLength="420" lengthAdjust="spacingAndGlyphs">tomson</text>
+  <rect x="340" y="164" width="120" height="4" rx="2" fill="#3399FF" class="ln"/>
+  <text x="400" y="210" text-anchor="middle" class="s" textLength="420" lengthAdjust="spacingAndGlyphs">full-stack developer • creator of fraghub</text>
+</svg>
