@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img src="assets/header.svg" alt="tomson, full-stack developer and co-creator of FragHub" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner.svg" alt="tomson, full-stack developer and co-creator of FragHub" width="100%" />
   </picture>
 </p>
 
