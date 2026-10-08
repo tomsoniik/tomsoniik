@@ -18,13 +18,17 @@ Hi, I'm Tomson, or tomSoNN in game. I build web things for the Counter-Strike co
 
 It's also the quickest way to reach the team.
 
+Built with:
+
+<img src="https://skillicons.dev/icons?i=html,js,php" alt="HTML5, JavaScript, PHP" />
+
 ### Also
 
 [AutoMessageChat](https://github.com/tomsoniik/AutoMessageChat) is a small CS2 server plugin in C# (CounterStrikeSharp). It posts rotating chat messages and greets players when they join.
 
-### Stack
+### Other tech I use
 
-<img src="https://skillicons.dev/icons?i=html,js,php,react,electron,cs,cpp,py" alt="HTML5, JavaScript, PHP, React, Electron, C#, C++, Python" />
+<img src="https://skillicons.dev/icons?i=react,electron,cs,cpp,py" alt="React, Electron, C#, C++, Python" />
 
 ### Contact
 
