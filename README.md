@@ -24,7 +24,7 @@ It's also the quickest way to reach the team.
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=html,js,php" alt="HTML5, JavaScript, PHP" />
+<img src="https://skillicons.dev/icons?i=html,js,php,react,electron,cs,cpp,py" alt="HTML5, JavaScript, PHP, React, Electron, C#, C++, Python" />
 
 ### Contact
 
