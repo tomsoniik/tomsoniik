@@ -6,9 +6,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tomsoniik&label=profile%20views&color=3399FF&style=flat-square" alt="Profile views" />
-</p>
 
 Hi, I'm Tomson, or tomSoNN in game. I build web things for the Counter-Strike community, mostly in my free time and mostly for fun.
 
