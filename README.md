@@ -2,11 +2,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner.svg" alt="tomson, full-stack developer and co-creator of FragHub" width="100%" />
+    <img src="assets/banner.svg" alt="tomson, software engineer and co-creator of FragHub" width="100%" />
   </picture>
 </p>
 
-Full-stack developer. Open to work.
+Software engineer. Open to work.
 
 ### Projects
 

@@ -67,7 +67,7 @@
   <text x="56" y="110" class="n" clip-path="url(#reveal)">tomson</text>
   <rect x="58" y="131" width="288" height="3" rx="1.5" fill="#D0D7DE" class="ul"/>
   <rect x="58" y="131" width="60" height="3" rx="1.5" fill="#3399FF" class="ul"><animate attributeName="x" values="58;286;58" dur="4s" begin="1.6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/></rect>
-  <text x="57" y="164" class="s fade d1">full-stack developer</text>
+  <text x="57" y="164" class="s fade d1">software engineer</text>
   <text x="57" y="188" class="s s2 fade d1">co-creator of <tspan fill="#4A9FD8">F</tspan><tspan fill="#1F2328">ragHub</tspan></text>
 
   <!-- server icons -->
