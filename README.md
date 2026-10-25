@@ -6,15 +6,15 @@
   </picture>
 </p>
 
-Tomson, full-stack dev from Poland. Most of what I build is for gaming communities, Counter-Strike and Unturned mostly. Looking for a full-stack job.
+Full-stack developer. Open to work.
 
-### What I'm working on
+### Projects
 
-**[FragHub](https://hub.fragujemy.com)** is the website for the Fragujemy CS servers (1.6, CS:GO, CS2). Rankings, ban lists, bug reports and the forum all in one place. PHP + JS. Live, still in development, repo is private.
+**[FragHub](https://hub.fragujemy.com)** – website for the Fragujemy CS servers: rankings, bans, bug reports, forum. PHP, JS. Private repo.
 
-**[Untmatica](https://github.com/tomsoniik/planturned)** is a base planner for Unturned. You lay out the base in 2D, then walk around it in 3D on the real game maps. Next.js, TypeScript, Python for pulling the game data. Try it here: [base-planner-unturned.vercel.app](https://base-planner-unturned.vercel.app)
+**[Untmatica](https://github.com/tomsoniik/planturned)** – Unturned base planner, 2D editor + 3D walkthrough. Next.js, TypeScript. [Demo](https://base-planner-unturned.vercel.app)
 
-**[AutoMessageChat](https://github.com/tomsoniik/AutoMessageChat)** is a small CS2 plugin in C# (CounterStrikeSharp). Rotating chat messages and a welcome message when someone joins.
+**[AutoMessageChat](https://github.com/tomsoniik/AutoMessageChat)** – CS2 plugin for chat messages. C#.
 
 ### Stack
 
