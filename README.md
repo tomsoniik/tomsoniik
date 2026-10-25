@@ -6,47 +6,23 @@
   </picture>
 </p>
 
-## Hi, I'm Tomson 👋
+Tomson, full-stack dev from Poland. Most of what I build is for gaming communities, Counter-Strike and Unturned mostly. Looking for a full-stack job.
 
-**Full-stack web developer** from Poland. I build web platforms and tools for gaming communities: from the database and PHP backend up to the UI the players actually click.
+### What I'm working on
 
-- 🔭 Currently building **FragHub**, the web platform for the Fragujemy Counter-Strike servers
-- 🧱 Side project: **Untmatica**, a 2D/3D base planner for Unturned that runs in the browser
-- 🎨 I care about project structure and UI design as much as about the code itself
-- 💼 Open to full-stack opportunities
+**[FragHub](https://hub.fragujemy.com)** is the website for the Fragujemy CS servers (1.6, CS:GO, CS2). Rankings, ban lists, bug reports and the forum all in one place. PHP + JS. Live, still in development, repo is private.
 
-## Featured projects
+**[Untmatica](https://github.com/tomsoniik/planturned)** is a base planner for Unturned. You lay out the base in 2D, then walk around it in 3D on the real game maps. Next.js, TypeScript, Python for pulling the game data. Try it here: [base-planner-unturned.vercel.app](https://base-planner-unturned.vercel.app)
 
-### 🎯 [FragHub](https://hub.fragujemy.com)
-One platform that connects our Counter-Strike 1.6, CS:GO and CS2 servers with the community forum. Players use it to check their ranking, look up bans and other penalties, report bugs and contact the team.
+**[AutoMessageChat](https://github.com/tomsoniik/AutoMessageChat)** is a small CS2 plugin in C# (CounterStrikeSharp). Rotating chat messages and a welcome message when someone joins.
 
-**Stack:** PHP · JavaScript · HTML/CSS
-**Status:** live and in active development (source code is private)
+### Stack
 
-### 🏗️ [Untmatica](https://github.com/tomsoniik/planturned)
-A fan-made base planner for Unturned. Design your base in a 2D planner, then walk around it in 3D on real in-game maps. Includes floors, walls, roofs and props, a sandbox mode with chat commands, and an English and Polish interface. Projects save in the browser with no account needed and can be exported to a file.
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,react,nextjs,cs,py,git" alt="PHP, JavaScript, TypeScript, HTML, CSS, React, Next.js, C#, Python, Git" />
 
-**Stack:** TypeScript · Next.js · React · Python (game data export)
-**Live demo:** [base-planner-unturned.vercel.app](https://base-planner-unturned.vercel.app)
+### Contact
 
-### 💬 [AutoMessageChat](https://github.com/tomsoniik/AutoMessageChat)
-A small CS2 server plugin built on CounterStrikeSharp. It posts rotating chat messages and greets players when they join.
-
-**Stack:** C# · CounterStrikeSharp
-
-## Tech stack
-
-**Daily use**
-
-<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,react,nextjs" alt="PHP, JavaScript, TypeScript, HTML, CSS, React, Next.js" />
-
-**Also worked with**
-
-<img src="https://skillicons.dev/icons?i=cs,py,cpp,electron,vercel,git" alt="C#, Python, C++, Electron, Vercel, Git" />
-
-## Contact
-
-- Discord: `tomsoncs`
+Discord: `tomsoncs`
 
 <br>
 
