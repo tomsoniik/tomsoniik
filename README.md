@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-Software engineer. Open to work.
+UI Designer. Open to work.
 
 ### Projects
 
