@@ -6,7 +6,9 @@
   </picture>
 </p>
 
-I'm Tomek, 19, from Poland. I've been building for the web for about a year, mostly with HTML, CSS and JavaScript. Most of what I know comes from co-creating FragHub. I recently started learning React, Next.js and Tailwind.
+I'm Tomek, 19, from Poland. I've been building for the web for about a year, mostly with HTML, CSS and JavaScript. Most of what I know comes from co-creating FragHub.
+
+I recently started learning React, Next.js and Tailwind, and I work with AI coding assistants as part of my web dev workflow.
 
 Open to work.
 
