@@ -6,11 +6,15 @@
   </picture>
 </p>
 
-UI Designer. Open to work.
+I'm Tomek, 19, from Poland. I've been building for the web for about a year, mostly with HTML, CSS and JavaScript. Most of what I know comes from co-creating FragHub. I recently started learning React, Next.js and Tailwind.
+
+Open to work.
 
 ### Projects
 
 **[FragHub](https://hub.fragujemy.com)** – website for the Fragujemy CS servers: rankings, bans, bug reports, forum. PHP, JS. Private repo.
+
+**[Steam Group Tags](https://github.com/tomsoniik/Steam-Group-Chrome-Extention)** – browser extension for Steam groups: tags next to names, one-click join, duplicate finder, bulk leave. JavaScript.
 
 **[Untmatica](https://github.com/tomsoniik/planturned)** – Unturned base planner, 2D editor + 3D walkthrough. Next.js, TypeScript. [Demo](https://base-planner-unturned.vercel.app)
 
@@ -18,7 +22,14 @@ UI Designer. Open to work.
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,react,nextjs,cs,py,git" alt="PHP, JavaScript, TypeScript, HTML, CSS, React, Next.js, C#, Python, Git" />
+**Day to day**<br>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
+
+**Learning now**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" />
+
+**Also worked with**<br>
+<img src="https://skillicons.dev/icons?i=php,ts,cs,py,git" alt="PHP, TypeScript, C#, Python, Git" />
 
 ### Contact
 
